@@ -1,3 +1,3 @@
-# The React Handbook
+# The React Handbook (繁體中文版)
 
-Moved to <https://reacthandbook.com>
+原版 <https://reacthandbook.com>
